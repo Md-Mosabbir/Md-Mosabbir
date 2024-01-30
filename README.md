@@ -9,7 +9,7 @@ Skills: GSAP / REACT / JS / HTML / CSS / NODE
 - ⚡ Fun fact: I know German, decent Arabic, solve the Rubix Cube and create 3d models 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Mosabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mosabbir-khan-867b641a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MosabbirDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mosabbir.vercel.app)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-Mosabbir)](https://github.com/ryo-ma/github-profile-trophy)
 
